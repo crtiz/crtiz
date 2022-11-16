@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carlos
 - 👀 I’m interested in entry levels opportunities
-- 🌱 I’m currently learning Javascript & Python
+- 🌱 I’m currently learning front-end & C++
 - 💞️ I’m looking to collaborate on open source
 - 📫 Reach me at carlosrafaelortiz95@gmail.com 
 
