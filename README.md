@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source
 - 📫 Reach me at carlosrafaelortiz95@gmail.com 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crtiz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crtiz&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crtiz&show_icons=true&theme=dark)
 
 
